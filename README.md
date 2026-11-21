@@ -1,16 +1,18 @@
-# Análisis Matemático I B — Verano de 2012
+# Análisis Matemático I (Biología)
 
-## Prácticas
+Verano 2012
 
-- [Repaso](practica0.pdf)
-- [Funciones](practica1.pdf)
-- [Función logarítmica y función exponencial](practica2.pdf)
-- [Límites y continuidad](practica3.pdf)
-- [Derivadas, reglas de derivación](practica4.pdf)
-- [Aplicaciones de la derivada](practica5.pdf)
-- [Primitivas, integrales y áreas](practica6.pdf)
-- [Introducción a las ecuaciones diferenciales](practica7.pdf)
+### Inscripción
 
-## Página original
+- A partir del dia de hoy, 06 de febrero y hasta el 09 de marzo se encuentra abierta la inscripcion a las materias del curso de verano.
 
-[Página de la cursada en el CMS](https://cms.dm.uba.ar/academico/materias/verano2012/analisis_matematico_I_B)
+### Fechas de Exámenes
+
+- Primer Parcial: 24 de febrero a las 8:30 hs. en el Aula Magna del Pabellón II. Se evaluarán los contenidos trabajados en las clases prácticas hasta el día viernes 17 de febrero.- Segundo Parcial: 16 de marzo a las 8:30 hs. en el Aula Magna del Pabellón II.- Primer Recuperatorio: 23 de marzo a las 8:30 hs. en el Aula Magna del Pabellón II.- Segundo Recuperatorio: 30 de marzo a las 8:30 hs. en el Aula Magna del Pabellón I.
+
+### Horarios, docentes y aulas
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Práctica | Lu, Ma, Mi y Vi: 8.30 a 11.45 | [Andrea Rey](mailto:aarey@dm.uba.ar) - [Federico Quallbrunn](mailto:fquallb@dm.uba.ar)- Pablo Escobar - Alexia Yavicoli | Aula: 10 | Pab: II |
+| Teórica | Lu, Ma, Mi y Vi: 11.45 a 14 | [Juan José Guccione](mailto:jjgucci@dm.uba.ar) | Aula: 10 | Pab: II |
